@@ -59,6 +59,10 @@ The dataset contains sales transaction records, including:
 
 https://github.com/hasibulbd7580/Data_Analysis_Dashboard/blob/main/sales_data_sample.xlsx
 
+## Conclusion
+
+This project analyzes sales data to identify key trends in countries, products, and yearly performance. The dashboard helps visualize business performance and supports data-driven decision-making.
+
 ## Author
 
 **Md.Hasibul Islam**
