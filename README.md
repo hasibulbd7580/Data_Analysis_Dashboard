@@ -51,7 +51,8 @@ The dataset contains sales transaction records, including:
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/hasibulbd7580/Data_Analysis_Dashboard/blob/main/Screenshot%20(32).png)
+
 
 ## Dataset Source
 
